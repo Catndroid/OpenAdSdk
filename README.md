@@ -27,3 +27,5 @@ Apache Licence 2.0：和 BSD 类似，鼓励代码共享和最终原作者的著
 <a href="https://t.me/mjnopenadsdk">Official English Telegram: https://t.me/mjnopenadsdk</a><br>
 
 This Redme.md by Cat in 2月11日,2025年
+
+<a href="./REDMEENGLISH.md">OpenAdSdk English Page</a>
