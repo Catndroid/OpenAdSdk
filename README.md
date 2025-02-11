@@ -23,4 +23,5 @@ Apache Licence 2.0：和 BSD 类似，鼓励代码共享和最终原作者的著
 
 
 <a href="https://www.1145117.xyz">欢迎到访我的个人网站: https://www.1145117.xyz</a><br>
+<a href="https://t.me/minopenadsdk">官方中文TG: https://t.me/minopenadsdk</a><br>
 This Redme.md by Cat in 2月11日,2025年
